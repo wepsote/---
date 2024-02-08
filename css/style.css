@@ -746,7 +746,7 @@ button {
     animation: medo 6s  infinite;
     position: absolute;
     top: 90%;
-    left: 1%;
+    left: 0%;
     white-space: nowrap;
   }
   .footer-menu {
