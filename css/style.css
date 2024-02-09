@@ -796,4 +796,7 @@ button {
   .btn-facebook:hover {
     transform:translateY(-10px);
   }
+.profile-body .author-img img {
+    border:2px #00B98E solid;
+  }
   
