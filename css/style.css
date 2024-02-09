@@ -747,7 +747,7 @@ button {
     position: absolute;
     top: 90%;
     left: -3%;
-    white-space: nowrap;
+    white-space: wrap;
   }
   .footer-menu {
     position: relative;
